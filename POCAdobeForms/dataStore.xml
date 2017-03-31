@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <AllTemplates>
+    <config>
+      <Backgroundcolor>black</Backgroundcolor>
+      <Forecolor>black</Forecolor>
+      <font>
+        <size>10</size>
+        <color>Black</color>
+        <border>
+          <style>dotted</style>
+          <size>1</size>
+        </border>
+      </font>
+    </config>
+  </AllTemplates>
+  <Templates>
+    <Template name="105">
+      <config>
+        <size>10</size>
+        <color>Black</color>
+      </config>
+    </Template>
+    <Template name="106">
+      <config>
+        <size>10</size>
+        <color>Black</color>
+      </config>
+    </Template>
+  </Templates>
+  <BlockTypes>
+    <BlockType name="abc">
+      <config>
+        <size>10</size>
+        <color>Black</color>
+      </config>
+    </BlockType>
+    <BlockType name="def">
+      <config>
+        <size>10</size>
+        <color>Black</color>
+      </config>
+    </BlockType>
+  </BlockTypes>
+  <BlockInstances>
+    <BlockInstance name="2">
+      <config>
+        <size>10</size>
+        <color>Black</color>
+      </config>
+    </BlockInstance>
+  </BlockInstances>
+
+</root>
+
+
